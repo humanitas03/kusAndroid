@@ -1,0 +1,35 @@
+<!--
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:layout_width="252dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtURL"
+            android:text="http://dlswp113.dothome.co.kr/kusitms13/index.html" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Go"
+            android:id="@+id/btnGo"
+            android:onClick="goURL" />
+    </LinearLayout>
+    -->
+
+
+
+** 음 1시 반에 시작하면 이렇게 **
+13:30~14:00 학회소개
+14:00~15:00 김영규 본부장
+15:00~15:10 쉬는시간
+15:10~16:00 오세종 팀장
+16:00~16:10 쉬는시간
+16:10~17:10 서상훈 팀장
+17:10~      사진 촬영 및 마무리
+
+
+http://dlswp113.dothome.co.kr/kusitms13/gcm_tr.php?tr=2&user_id=4&send_title=test&send_contents=test
+http://dlswp113.dothome.co.kr/kusitms13/gcm_tr.php?tr=1&user_id=105&regist_id=APA91bFhw3JS4WFK3o4IA1DKdl7rSTvNy0SewF2YkuBNjNDnCO_dQxGNn_kkB1RnlXaKd7nAdWT_oQNksUfIF7nCXsE19Oaye85lZG8hGsW1M1y63lH0yr0vfKNWRkbD3pO_UdWl5LnW
