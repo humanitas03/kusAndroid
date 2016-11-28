@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="none">
+        <item
+            android:id="@+id/my_repairs"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="내 수리"/>
+        <item
+            android:id="@+id/logout"
+            android:icon="@android:drawable/ic_menu_revert"
+            android:title="로그아웃"/>
+    </group>
+
+    <item android:title="문의">
+        <menu>
+            <item
+                android:id="@+id/dev_contact"
+                android:icon="@android:drawable/ic_menu_help"
+                android:title="개발자 문의"/>
+
+        </menu>
+    </item>
+
+</menu>

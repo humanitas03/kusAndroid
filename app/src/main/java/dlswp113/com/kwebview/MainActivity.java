@@ -8,6 +8,9 @@ import android.util.Log;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+import dlswp113.com.kwebview.R;
+import dlswp113.com.kwebview.control.GCMManager;
+
 
 //android Web view를 이용한 KUSITM 어플리케이션
 public class MainActivity extends AppCompatActivity {
